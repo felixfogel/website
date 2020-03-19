@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://freiburg.corona-solidaritaet.de/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://freiburg.corona-solidaritaet.de/</loc>
+</url>
+<url>
+<loc>https://freiburg.corona-solidaritaet.de/als-helferin-melden/</loc>
+<lastmod>2020-03-18T00:15:21+01:00</lastmod>
+<image:image>
+<image:loc>https://freiburg.corona-solidaritaet.de/media/posts/7/Helpinghands.svg.png</image:loc>
+<image:title><![CDATA[Titelbild - als Helfer*in melden]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://freiburg.corona-solidaritaet.de/beratung/</loc>
+<lastmod>2020-03-17T23:58:18+01:00</lastmod>
+</url>
+<url>
+<loc>https://freiburg.corona-solidaritaet.de/es-geht-voran/</loc>
+<lastmod>2020-03-18T01:55:59+01:00</lastmod>
+</url>
+<url>
+<loc>https://freiburg.corona-solidaritaet.de/forderungen/</loc>
+<lastmod>2020-03-17T16:51:35+01:00</lastmod>
+<image:image>
+<image:loc>https://freiburg.corona-solidaritaet.de/media/posts/2/solidarity.webp</image:loc>
+<image:title><![CDATA[Titelbild - Solidarität]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://freiburg.corona-solidaritaet.de/kontakt/</loc>
+<lastmod>2020-03-17T11:33:17+01:00</lastmod>
+</url>
+<url>
+<loc>https://freiburg.corona-solidaritaet.de/material/</loc>
+<lastmod>2020-03-18T14:11:20+01:00</lastmod>
+<image:image>
+<image:loc>https://freiburg.corona-solidaritaet.de/media/posts/6/material.webp</image:loc>
+<image:title><![CDATA[Titelbild - Materialseite]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://freiburg.corona-solidaritaet.de/page/2/</loc>
+</url>
+<url>
+<loc>https://freiburg.corona-solidaritaet.de/startseite/</loc>
+<lastmod>2020-03-18T11:38:24+01:00</lastmod>
+<image:image>
+<image:loc>https://freiburg.corona-solidaritaet.de/media/posts/1/Karte_der_Innenstadt_von_Freiburg_im_Breisgau_OSM-Derivat.svg.png</image:loc>
+<image:title><![CDATA[Hintergundbild: Karte der Innenstadt Freiburg]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://freiburg.corona-solidaritaet.de/zum-aktuellen-stand-des-aufbaus-der-infrastruktur/</loc>
+<lastmod>2020-03-17T02:39:29+01:00</lastmod>
+<image:image>
+<image:loc>https://freiburg.corona-solidaritaet.de/media/posts/3/netzwerk-total.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://freiburg.corona-solidaritaet.de/media/posts/3/qr-code.jpg</image:loc>
+<image:title><![CDATA[QR-Code: https://t.me/corona_soli_fr]]></image:title>
+</image:image>
+</url>
+</urlset>

@@ -1,0 +1,742 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "1bad7f1af20c19844afe983bf3ee3e42"
+    },
+    {
+        "path": "als-helferin-melden",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/als-helferin-melden/index.html",
+        "type": "file",
+        "md5": "ea4cc9be84f3f434c7e66f511b14a3a6"
+    },
+    {
+        "path": "amp",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/als-helferin-melden",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/als-helferin-melden/index.html",
+        "type": "file",
+        "md5": "e78de725fe4bc7d471b2a32fac061c78"
+    },
+    {
+        "path": "amp/authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/authors/corona-solidaritaet-freiburg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/authors/corona-solidaritaet-freiburg/index.html",
+        "type": "file",
+        "md5": "00caa5d11634f34aaa90612b0990452e"
+    },
+    {
+        "path": "amp/authors/corona-solidaritaet-freiburg/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/authors/corona-solidaritaet-freiburg/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/authors/corona-solidaritaet-freiburg/page/2/index.html",
+        "type": "file",
+        "md5": "b8119731abf5bcfce590b6052b0af456"
+    },
+    {
+        "path": "amp/beratung",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/beratung/index.html",
+        "type": "file",
+        "md5": "eecc328dd33490ee567ce3cda5dc0bb7"
+    },
+    {
+        "path": "amp/es-geht-voran",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/es-geht-voran/index.html",
+        "type": "file",
+        "md5": "05c63361267f22efeb169bfdb4be4c36"
+    },
+    {
+        "path": "amp/forderungen",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/forderungen/index.html",
+        "type": "file",
+        "md5": "ff424fc72b553f5dc5e4bb184c1e0d96"
+    },
+    {
+        "path": "/amp/index.html",
+        "type": "file",
+        "md5": "c29c4c401d03a0bd99c5b0c26be7629f"
+    },
+    {
+        "path": "amp/kontakt",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/kontakt/index.html",
+        "type": "file",
+        "md5": "dbfc5eb01df8d8aaddceba7e497da1d7"
+    },
+    {
+        "path": "amp/material",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/material/index.html",
+        "type": "file",
+        "md5": "9be9e27da553b8f6dbca8eb422a994d1"
+    },
+    {
+        "path": "amp/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/page/2/index.html",
+        "type": "file",
+        "md5": "9610028c1559edfe28657606802e6991"
+    },
+    {
+        "path": "amp/startseite",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/startseite/index.html",
+        "type": "file",
+        "md5": "aec5ff49256c141f1517026df6a46be8"
+    },
+    {
+        "path": "amp/tag",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "amp/tag/updates",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/tag/updates/index.html",
+        "type": "file",
+        "md5": "13072467f52e40e2369ca0f0648de671"
+    },
+    {
+        "path": "amp/zum-aktuellen-stand-des-aufbaus-der-infrastruktur",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/amp/zum-aktuellen-stand-des-aufbaus-der-infrastruktur/index.html",
+        "type": "file",
+        "md5": "b20ad1494a5df14bfc1de1e2f59bb957"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "ca708dbb571ea823d540b48d9030e479"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "357f87f4e9502a5318d89e8e76e0a344"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "fdfea347370405e7cfb382d7d68230a1"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/lazysizes.min.js",
+        "type": "file",
+        "md5": "149ff45fc6c2f13e892e438a58abb77f"
+    },
+    {
+        "path": "/assets/js/ls.parent-fit.min.js",
+        "type": "file",
+        "md5": "1c78585e2a70398fe95085061942fd37"
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "c061a13816b98ce8c8a7ffb2e62dc403"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "90d5a5ff4789f25f79840f95fc089c0e"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "b00814b406ac7700d941b23e08c545b0"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "f56b13ba141d95ea2a0b7aab75ca9528"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg2js.js",
+        "type": "file",
+        "md5": "f1b2af45feed0620bb95e4521fb768c2"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "452594838e74a3df91ad4a20cf53c831"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "ca77079e0fe8270a7447d7f1f5d543b0"
+    },
+    {
+        "path": "/assets/svg/search.svg",
+        "type": "file",
+        "md5": "a5bb83b82b98f41b359f20dbf9db6e44"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "63bac2a8e88021dd997efbd9d8271be2"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/corona-solidaritaet-freiburg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/corona-solidaritaet-freiburg/index.html",
+        "type": "file",
+        "md5": "43e89c2cb430bebb4be25f4b35a3a8a8"
+    },
+    {
+        "path": "authors/corona-solidaritaet-freiburg/page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/corona-solidaritaet-freiburg/page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/corona-solidaritaet-freiburg/page/2/index.html",
+        "type": "file",
+        "md5": "8842757f2affee5eeb496b395c37a40c"
+    },
+    {
+        "path": "beratung",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/beratung/index.html",
+        "type": "file",
+        "md5": "12a9ba1c9784d0b38b73e67153f44d5d"
+    },
+    {
+        "path": "es-geht-voran",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/es-geht-voran/index.html",
+        "type": "file",
+        "md5": "036a92aa9ea56ed78a3726f46064ac21"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "24817298454eb0d5595a4bf2e8be2cad"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "ec17cca74e2fc0e27dbbc0004119b476"
+    },
+    {
+        "path": "forderungen",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/forderungen/index.html",
+        "type": "file",
+        "md5": "3f5edcf2358b3caf396eca3216151af8"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "07e3bd25363f12550439cca7a3674cff"
+    },
+    {
+        "path": "kontakt",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/kontakt/index.html",
+        "type": "file",
+        "md5": "2e63ac2affc33cb18c8495029c8d6be0"
+    },
+    {
+        "path": "material",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/material/index.html",
+        "type": "file",
+        "md5": "ae053c4cf75257223bb86e7b6a2fe2b9"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/files",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/files/Hygieneblatt.pdf",
+        "type": "file",
+        "md5": "b52c9497124cf78dde7e3d4007de5264"
+    },
+    {
+        "path": "/media/files/Hygieneblatt.png",
+        "type": "file",
+        "md5": "184d1d3e6eb5e071bb5cf3059c9222bf"
+    },
+    {
+        "path": "/media/files/Solidariaet-Corona-Flyer-DE.png",
+        "type": "file",
+        "md5": "8c6ee72966a3316c88d65531efb57b04"
+    },
+    {
+        "path": "/media/files/Solidariaet-Corona-Flyer-TR.png",
+        "type": "file",
+        "md5": "e35f309a607a68f257857e8b14e896e4"
+    },
+    {
+        "path": "/media/files/Solidaritaet-Corona-Flyer-AR.docx",
+        "type": "file",
+        "md5": "65ca2d00518cb475877dbee9680d129d"
+    },
+    {
+        "path": "/media/files/Solidaritaet-Corona-Flyer-AR.pdf",
+        "type": "file",
+        "md5": "9727e3c79299788387403ceee2a371c7"
+    },
+    {
+        "path": "/media/files/Solidaritaet-Corona-Flyer-DE.docx",
+        "type": "file",
+        "md5": "21a36d92d8d6d356072bdcdb9b997298"
+    },
+    {
+        "path": "/media/files/Solidaritaet-Corona-Flyer-DE.pdf",
+        "type": "file",
+        "md5": "ae049eb7abf6d0f846151b55eda163f8"
+    },
+    {
+        "path": "/media/files/Solidaritaet-Corona-Flyer-EN.docx",
+        "type": "file",
+        "md5": "1cca4212152d67134bf3ab1cc9f6cc51"
+    },
+    {
+        "path": "/media/files/Solidaritaet-Corona-Flyer-EN.pdf",
+        "type": "file",
+        "md5": "84742210aa0dc8809eedf42e85910d82"
+    },
+    {
+        "path": "/media/files/Solidaritaet-Corona-Flyer-EN.png",
+        "type": "file",
+        "md5": "6da8eae449bb2fe9e50c0c808ae0b3bf"
+    },
+    {
+        "path": "/media/files/Solidaritaet-Corona-Flyer-PE.docx",
+        "type": "file",
+        "md5": "1b0160998e7fa37aec21cdf4a9844e72"
+    },
+    {
+        "path": "/media/files/Solidaritaet-Corona-Flyer-PE.pdf",
+        "type": "file",
+        "md5": "968b5c13d6fa2bcf209d907160084dee"
+    },
+    {
+        "path": "/media/files/Solidaritaet-Corona-Flyer-TR.docx",
+        "type": "file",
+        "md5": "1ede5961a1cc2de1536eafa442452055"
+    },
+    {
+        "path": "/media/files/Solidaritaet-Corona-Flyer-TR.pdf",
+        "type": "file",
+        "md5": "ba7f8de424618cdc0f540b2072be24d9"
+    },
+    {
+        "path": "/media/files/qr-code.png",
+        "type": "file",
+        "md5": "9c584602a5485387575cd1f922c061a9"
+    },
+    {
+        "path": "media/posts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/1",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/Karte_der_Innenstadt_von_Freiburg_im_Breisgau_OSM-Derivat.svg.png",
+        "type": "file",
+        "md5": "cfc1972cc5f0470c7af715de4eafc519"
+    },
+    {
+        "path": "media/posts/1/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/1/responsive/Karte_der_Innenstadt_von_Freiburg_im_Breisgau_OSM-Derivat.svg-2xl.png",
+        "type": "file",
+        "md5": "820a574205e92f8785dabdb5b8a6c5ad"
+    },
+    {
+        "path": "/media/posts/1/responsive/Karte_der_Innenstadt_von_Freiburg_im_Breisgau_OSM-Derivat.svg-lg.png",
+        "type": "file",
+        "md5": "4bec924edf6abbd21898066b17ecac10"
+    },
+    {
+        "path": "/media/posts/1/responsive/Karte_der_Innenstadt_von_Freiburg_im_Breisgau_OSM-Derivat.svg-md.png",
+        "type": "file",
+        "md5": "bdfe6e023210851ac9e1e94ee7138a1b"
+    },
+    {
+        "path": "/media/posts/1/responsive/Karte_der_Innenstadt_von_Freiburg_im_Breisgau_OSM-Derivat.svg-sm.png",
+        "type": "file",
+        "md5": "9fb540457e14f8ec5715a06bf1e51475"
+    },
+    {
+        "path": "/media/posts/1/responsive/Karte_der_Innenstadt_von_Freiburg_im_Breisgau_OSM-Derivat.svg-xl.png",
+        "type": "file",
+        "md5": "2c38b76f43da68a61621739e9c7da3e0"
+    },
+    {
+        "path": "/media/posts/1/responsive/Karte_der_Innenstadt_von_Freiburg_im_Breisgau_OSM-Derivat.svg-xs.png",
+        "type": "file",
+        "md5": "9ca56e52e13808662cc6779a2b2e6051"
+    },
+    {
+        "path": "media/posts/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/2/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/2/solidarity.webp",
+        "type": "file",
+        "md5": "bb650f11db10912d10366725dc459943"
+    },
+    {
+        "path": "media/posts/3",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/netzwerk-total.jpg",
+        "type": "file",
+        "md5": "8e53b49dd35f888f30ab0eace23615e8"
+    },
+    {
+        "path": "/media/posts/3/qr-code.jpg",
+        "type": "file",
+        "md5": "2475e01374c782725530be05800ff621"
+    },
+    {
+        "path": "media/posts/3/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/3/responsive/netzwerk-total-2xl.jpg",
+        "type": "file",
+        "md5": "700d58a1d3cc066e99fdec630e4a7f17"
+    },
+    {
+        "path": "/media/posts/3/responsive/netzwerk-total-lg.jpg",
+        "type": "file",
+        "md5": "700d58a1d3cc066e99fdec630e4a7f17"
+    },
+    {
+        "path": "/media/posts/3/responsive/netzwerk-total-md.jpg",
+        "type": "file",
+        "md5": "700d58a1d3cc066e99fdec630e4a7f17"
+    },
+    {
+        "path": "/media/posts/3/responsive/netzwerk-total-sm.jpg",
+        "type": "file",
+        "md5": "11ece96092e25aa1724fe37b2d887463"
+    },
+    {
+        "path": "/media/posts/3/responsive/netzwerk-total-xl.jpg",
+        "type": "file",
+        "md5": "700d58a1d3cc066e99fdec630e4a7f17"
+    },
+    {
+        "path": "/media/posts/3/responsive/netzwerk-total-xs.jpg",
+        "type": "file",
+        "md5": "ffd891df9f7f7cbbf39d5100e33a5e2b"
+    },
+    {
+        "path": "/media/posts/3/responsive/qr-code-2xl.jpg",
+        "type": "file",
+        "md5": "9c35e54698b5b6b7e51678d6179e6397"
+    },
+    {
+        "path": "/media/posts/3/responsive/qr-code-lg.jpg",
+        "type": "file",
+        "md5": "9c35e54698b5b6b7e51678d6179e6397"
+    },
+    {
+        "path": "/media/posts/3/responsive/qr-code-md.jpg",
+        "type": "file",
+        "md5": "9c35e54698b5b6b7e51678d6179e6397"
+    },
+    {
+        "path": "/media/posts/3/responsive/qr-code-sm.jpg",
+        "type": "file",
+        "md5": "9c35e54698b5b6b7e51678d6179e6397"
+    },
+    {
+        "path": "/media/posts/3/responsive/qr-code-xl.jpg",
+        "type": "file",
+        "md5": "9c35e54698b5b6b7e51678d6179e6397"
+    },
+    {
+        "path": "/media/posts/3/responsive/qr-code-xs.jpg",
+        "type": "file",
+        "md5": "9c35e54698b5b6b7e51678d6179e6397"
+    },
+    {
+        "path": "media/posts/4",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/4/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/6",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/6/material.webp",
+        "type": "file",
+        "md5": "c9365ae98f6e25da1d91f3584a0974e5"
+    },
+    {
+        "path": "media/posts/6/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/posts/7",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/Helpinghands.svg.png",
+        "type": "file",
+        "md5": "8a7041ccdbff29e59fbf801aedadd73d"
+    },
+    {
+        "path": "media/posts/7/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/posts/7/responsive/Helpinghands.svg-2xl.png",
+        "type": "file",
+        "md5": "3d5660c69901f978c562f31d90f6dcae"
+    },
+    {
+        "path": "/media/posts/7/responsive/Helpinghands.svg-lg.png",
+        "type": "file",
+        "md5": "3d5660c69901f978c562f31d90f6dcae"
+    },
+    {
+        "path": "/media/posts/7/responsive/Helpinghands.svg-md.png",
+        "type": "file",
+        "md5": "cf414de917b70027b71c4544ef9e4cdc"
+    },
+    {
+        "path": "/media/posts/7/responsive/Helpinghands.svg-sm.png",
+        "type": "file",
+        "md5": "1d9b7684604b868c05ac00d1dc3a7469"
+    },
+    {
+        "path": "/media/posts/7/responsive/Helpinghands.svg-xl.png",
+        "type": "file",
+        "md5": "3d5660c69901f978c562f31d90f6dcae"
+    },
+    {
+        "path": "/media/posts/7/responsive/Helpinghands.svg-xs.png",
+        "type": "file",
+        "md5": "bc693e635e9359a86886caa1db880338"
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "page/2",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/page/2/index.html",
+        "type": "file",
+        "md5": "0b4ed0822152585f2be7ef3841457101"
+    },
+    {
+        "path": "search.html",
+        "type": "file",
+        "md5": "a6538e3b8e62da770463a8f38e0cb15a"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "cc9d9b654d54ec5bdbce3131e103befd"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "51a7bcec43fa1ef0366100d5c2edbe75"
+    },
+    {
+        "path": "startseite",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/startseite/index.html",
+        "type": "file",
+        "md5": "0c33a39fc88d365859ee6d366c15faf6"
+    },
+    {
+        "path": "tag",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "tag/updates",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tag/updates/index.html",
+        "type": "file",
+        "md5": "1951425d9e21b47875700e075f561bce"
+    },
+    {
+        "path": "zum-aktuellen-stand-des-aufbaus-der-infrastruktur",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/zum-aktuellen-stand-des-aufbaus-der-infrastruktur/index.html",
+        "type": "file",
+        "md5": "e362794ebd048eabdb36309ec4455ffc"
+    }
+]

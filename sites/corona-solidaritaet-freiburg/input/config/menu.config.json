@@ -1,0 +1,86 @@
+[
+    {
+        "items": [
+            {
+                "cssClass": "",
+                "id": 1584387767366,
+                "items": [],
+                "label": "Startseite",
+                "link": "empty",
+                "rel": "",
+                "target": "_self",
+                "title": "",
+                "type": "frontpage"
+            },
+            {
+                "cssClass": "",
+                "id": 1584408359755,
+                "items": [
+                    {
+                        "cssClass": "",
+                        "id": 1584408445262,
+                        "items": [],
+                        "label": "Infrastruktur",
+                        "link": 1,
+                        "rel": "",
+                        "target": "_self",
+                        "title": "",
+                        "type": "tag"
+                    }
+                ],
+                "label": "Aktuell",
+                "link": "#",
+                "rel": "",
+                "target": "_self",
+                "title": "",
+                "type": "internal"
+            },
+            {
+                "cssClass": "",
+                "id": 1584536189733,
+                "items": [],
+                "label": "Material",
+                "link": 6,
+                "rel": "",
+                "target": "_self",
+                "title": "",
+                "type": "post"
+            },
+            {
+                "cssClass": "",
+                "id": 1584479119949,
+                "items": [],
+                "label": "Als Helfer*in melden",
+                "link": 7,
+                "rel": "",
+                "target": "_self",
+                "title": "",
+                "type": "post"
+            },
+            {
+                "cssClass": "",
+                "id": 1584442486852,
+                "items": [],
+                "label": "Forderungen",
+                "link": 2,
+                "rel": "",
+                "target": "_self",
+                "title": "",
+                "type": "post"
+            },
+            {
+                "cssClass": "",
+                "id": 1584438571312,
+                "items": [],
+                "label": "Kontakt",
+                "link": 4,
+                "rel": "",
+                "target": "_self",
+                "title": "",
+                "type": "post"
+            }
+        ],
+        "name": "Main",
+        "position": "mainMenu"
+    }
+]
